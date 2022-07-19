@@ -762,6 +762,7 @@ table tfoot td {
   flex-direction: column;
   justify-content: space-between;
   width: 240px;
+  flex-basis: 240px;
   height: 100vh;
   padding: 20px 10px;
   background-color: #ffffff;
@@ -815,6 +816,7 @@ table tfoot td {
 }
 
 .content-box {
+  width: 100%;
   padding: 20px;
   display: flex;
   flex-direction: row;
