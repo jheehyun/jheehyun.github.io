@@ -3,7 +3,7 @@ layout: post
 title: The Best Organizer Software
 date: 2017-09-12 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: pig.png # Add image post (optional)
+img: pig.png # Add image post (optional) image 파일에 있는거 그대로 적으면됨
 tags: [Productivity, Software] # add tag
 ---
 
